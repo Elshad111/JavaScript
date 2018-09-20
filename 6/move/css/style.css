@@ -1,0 +1,19 @@
+*{
+	padding: 0;
+	margin: 0;	
+	box-sizing: border-box;
+}
+
+body{
+	background: #eee;
+	position: relative;
+}
+
+.some {
+    width: 100px;
+    height: 100px;
+    background: #a978ea;
+	position: absolute;
+	top: 0;
+	left: 0;
+}

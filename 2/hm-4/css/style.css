@@ -1,0 +1,44 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.wrapper{
+	width: 860px;
+	margin: 0 auto;
+}
+
+.items{	
+	display: flex;
+	flex-wrap: wrap;
+	box-sizing: border-box;
+	margin: 0 -10px;
+}
+
+.item{
+	width: 200px;
+	height: 200px;
+	background: #eee;
+	margin: 10px;
+	box-sizing: border-box;
+	padding: 5px;
+	border-radius: 3px;
+}
+
+
+.orange{
+	border: 3px solid #f90;
+}
+
+.counter{
+	display: block;
+    font-size: 20px;
+    padding: 10px;
+    border-bottom: 1px solid #d7d8db;
+}
+
+.block{
+	box-shadow: 0 1px 0 0 #d7d8db, 0 0 0 1px #e3e4e8;
+    margin-top: 20px;
+}

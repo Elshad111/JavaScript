@@ -1,0 +1,24 @@
+*{
+	padding: 0;
+	margin: 0;	
+	box-sizing: border-box;
+}
+
+body{
+	background: #eee;
+	position: relative;
+}
+
+#box {
+    width: 200px;
+    height: 200px;
+    background: #ffbb21;
+    margin: 50px;
+}
+
+.some {
+    width: 200px;
+    height: 200px;
+    background: green;
+    margin: 50px;
+}
